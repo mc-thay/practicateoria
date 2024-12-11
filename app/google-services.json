@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "751007549513",
+    "project_id": "practica-33d5f",
+    "storage_bucket": "practica-33d5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751007549513:android:21afa8b4cb73db278f1798",
+        "android_client_info": {
+          "package_name": "com.aguilar.practicateoria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjwpUI_LzjVh2FqqqgJF4hLFYlde87R_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
